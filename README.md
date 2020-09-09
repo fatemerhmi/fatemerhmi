@@ -1,7 +1,11 @@
 ### Hi there 👋
+
 🔭 I’m currently working on NLP projects (Transfer Learning, IR, Multi-task Learning(MTL), Multi-label classification)
+
 🌱 I’m currently learning everything about MTL.
+
 📫 How to reach me: fatemeh.rhmi@gmail.com
+
 😄 Pronouns: She/her
 
 <!--
