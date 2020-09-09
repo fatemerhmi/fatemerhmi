@@ -1,4 +1,8 @@
 ### Hi there 👋
+🔭 I’m currently working on NLP projects (Transfer Learning, IR, Multi-task Learning(MTL), Multi-label classification)
+🌱 I’m currently learning everything about MTL.
+📫 How to reach me: fatemeh.rhmi@gmail.com
+😄 Pronouns: She/her
 
 <!--
 **fatemerhmi/fatemerhmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
