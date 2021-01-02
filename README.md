@@ -3,7 +3,7 @@
 💻 I am a Research Assistant (MCS student) in Dalhousie Univeristy, Halifax, NS      
 🔭 I’m currently working on couple of NLP projects (Transfer Learning, IR, Multi-task Learning(MTL), Multi-label classification)     
 🌱 I’m currently learning everything about MTL.            
-📫 How to reach me: fatemeh.rhmi@gmail.com       
+📫 How to reach me: fateme.rhmi@gmail.com       
 😄 Pronouns: She/her       
 
 <!--
