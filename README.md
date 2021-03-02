@@ -1,7 +1,7 @@
 ### Welcome to my Github! 👋
 
 💻 I am an NLP Research Assistant (MCS student) in [Dalhousie Univeristy](https://www.dal.ca/), Halifax, NS      
-💻 I am working as an NLP research intern at [Imagia](https://imagia.com/)
+💻 I am working as an NLP research intern at [Imagia](https://imagia.com/)      
 🔭 I’m currently working on couple of NLP projects (Transfer Learning, IR, Multi-task Learning(MTL), Multi-label classification)     
 🌱 I’m currently learning everything about MTL.            
 📫 How to reach me: fateme.rhmi@gmail.com       
