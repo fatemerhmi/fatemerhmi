@@ -7,6 +7,11 @@
 📫 How to reach me: fateme.rhmi@gmail.com       
 😄 Pronouns: She/her       
 ⚡ Fun fact: Coffeeholic, Bibliophilia
+
+📫 Connect with me on: 
+* LinkedIn(https://www.linkedin.com/in/fatemehrahimi/)
+* [Twitter](https://twitter.com/Fatemeh__Rahimi)
+* [Clubhouse](https://www.joinclubhouse.com/@fatemehrahimi)
 <!--
 **fatemerhmi/fatemerhmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
