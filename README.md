@@ -10,7 +10,7 @@
 
 
 📫 Connect with me on: 
-* LinkedIn(https://www.linkedin.com/in/fatemehrahimi/)
+* [LinkedIn](https://www.linkedin.com/in/fatemehrahimi/)
 * [Twitter](https://twitter.com/Fatemeh__Rahimi)
 * [Clubhouse](https://www.joinclubhouse.com/@fatemehrahimi)
 <!--
