@@ -1,8 +1,8 @@
 ### Welcome to my Github! 👋
 
-💻 I am an Applied NLP Research Scientist at [Imagia](https://imagia.com/)      
+💻 I am a Senior NLP scientist at Pythonic AI.     
 🔭 I’m currently working on a repository that helps everyone learn or improve in NLP (stay tuned).      
-🌱 I’m currently learning everything about NER.                
+🌱 I’m currently learning everything about NER, QA.                
 😄 Pronouns: She/her       
 ⚡ Fun fact: Coffeeholic, Bibliophilia
 
