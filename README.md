@@ -9,7 +9,6 @@
 
 📫 Connect with me on: 
 * [LinkedIn](https://www.linkedin.com/in/fatemehrahimi/)
-* [Twitter](https://twitter.com/Fatemeh__Rahimi)
 
 
 <a href="https://stackexchange.com/users/6240108/fatemeh-rahimi"><img src="https://stackexchange.com/users/flair/6240108.png" width="208" height="58" alt="profile for Fatemeh Rahimi on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Fatemeh Rahimi on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
