@@ -1,8 +1,8 @@
 ### Welcome to my Github! 👋
 
 💻 I am a Senior NLP scientist at Pythonic AI.     
-🔭 I’m currently working on a repository that helps everyone learn or improve in NLP (stay tuned).      
-🌱 I’m currently learning everything about NER, QA.                
+🔭 I’m currently working on a repository that helps everyone learn more about Gen AI and agents.      
+🌱 I’m currently learning everything agents.                
 😄 Pronouns: She/her       
 ⚡ Fun fact: Coffeeholic, Bibliophilia
 
