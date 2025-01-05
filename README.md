@@ -6,6 +6,7 @@
 😄 Pronouns: She/her       
 ⚡ Fun fact: Coffeeholic, Bibliophilia
 
+💻 follow my latest learnings on gen-ai at: https://fatemerhmi.github.io/coffee-gen-ai/
 
 📫 Connect with me on: 
 * [LinkedIn](https://www.linkedin.com/in/fatemehrahimi/)
