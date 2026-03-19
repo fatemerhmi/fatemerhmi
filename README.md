@@ -1,32 +1,32 @@
-### Welcome to my GitHub! 👋
+## Hi, I'm Fatemeh (Fati) 👋
 
-💻 I am a Senior NLP scientist at Pythonic AI.     
-🔭 I’m currently working on a repository that helps everyone learn more about Gen AI and agents.      
-🌱 I’m currently learning everything about agents.                
-😄 Pronouns: She/her       
-⚡ Fun fact: Coffeeholic, Bibliophilia
+Senior NLP & AI Scientist with 7+ years shipping production systems —
+transformer fine-tuning, RAG pipelines, and multi-agent LLM orchestration.
 
-💻 follow my latest learnings on gen-ai at: https://fatemerhmi.github.io/coffee-gen-ai/
+**Currently:** Senior NLP Scientist @ [Pythonic AI](https://pythonic.ai)
+**Building:** Production document understanding services and multi-agent support automation
+**Learning:** Everything about compound AI systems and agentic workflows
 
-📫 Connect with me on: 
-* [LinkedIn](https://www.linkedin.com/in/fatemehrahimi/)
+---
 
+### What I work on
 
-<!-- <a href="https://stackexchange.com/users/6240108/fatemeh-rahimi"><img src="https://stackexchange.com/users/flair/6240108.png" width="208" height="58" alt="profile for Fatemeh Rahimi on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Fatemeh Rahimi on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a> -->
+- 🤖 **Multi-agent systems** — LLM orchestration, tool use, human-in-the-loop escalation
+- 📄 **Document understanding** — end-to-end NLP services in production
+- 🔬 **End-to-end ownership** — from research and evaluation to production deployment
+- 🛠️ **Open source** — contributing to MCP servers and AI tooling
+
+---
+
+### Recent
+
+- 🎤 Talk: *Compound AI Systems* (March 2025)
+- 🎤 Talk: *Debaters and Judges in Agentic AI Systems* (January 2025)
+- 🌱 Follow my AI learnings → [coffee-gen-ai](https://fatemerhmi.github.io/coffee-gen-ai/)
+
+---
+
+📫 [fatemerhmi.github.io](https://fatemerhmi.github.io) · [LinkedIn](https://www.linkedin.com/in/fatemehrahimi/) · fateme.rhmi@gmail.com
+😄 She/her · Coffeeholic · Bibliophile
 
 <img src="https://komarev.com/ghpvc/?username=fatemerhmi" alt="fatemerhmi" />
-<!--
-**fatemerhmi/fatemerhmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
