@@ -3,8 +3,8 @@
 Senior NLP & AI Scientist with 7+ years shipping production systems —
 transformer fine-tuning, RAG pipelines, and multi-agent LLM orchestration.
 
-**Currently:** Senior NLP Scientist @ [Pythonic AI](https://pythonic.ai)
-**Building:** Production document understanding services and multi-agent support automation
+**Currently:** Senior NLP Scientist @ [Pythonic AI](https://pythonic.ai)   
+**Building:** Production document understanding services and multi-agent support automation   
 **Learning:** Everything about compound AI systems and agentic workflows
 
 - 🤖 **Multi-agent systems** — LLM orchestration, tool use, human-in-the-loop escalation
