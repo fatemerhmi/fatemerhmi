@@ -7,24 +7,10 @@ transformer fine-tuning, RAG pipelines, and multi-agent LLM orchestration.
 **Building:** Production document understanding services and multi-agent support automation
 **Learning:** Everything about compound AI systems and agentic workflows
 
----
-
-### What I work on
-
 - 🤖 **Multi-agent systems** — LLM orchestration, tool use, human-in-the-loop escalation
 - 📄 **Document understanding** — end-to-end NLP services in production
 - 🔬 **End-to-end ownership** — from research and evaluation to production deployment
 - 🛠️ **Open source** — contributing to MCP servers and AI tooling
-
----
-
-### Recent
-
-- 🎤 Talk: *Compound AI Systems* (March 2025)
-- 🎤 Talk: *Debaters and Judges in Agentic AI Systems* (January 2025)
-- 🌱 Follow my AI learnings → [coffee-gen-ai](https://fatemerhmi.github.io/coffee-gen-ai/)
-
----
 
 📫 [fatemerhmi.github.io](https://fatemerhmi.github.io) · [LinkedIn](https://www.linkedin.com/in/fatemehrahimi/) · fateme.rhmi@gmail.com
 😄 She/her · Coffeeholic · Bibliophile
